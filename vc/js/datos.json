@@ -1,0 +1,26 @@
+ [{"nombre":"Bain Volumifique","id":1, "imagen":"./shampoo1ok.jpg", "descripcion":["Shampoo  generador de volumen.Cabelllos Finos"], "precio":"5500"},
+ {"nombre":"Bain Discipline", "id":2,"imagen":"shampoo2ok.jpg", "descripcion":["Shampoo disciplinante de la Hebra Capilar-Lacios/Ondulados"],"precio":"5450"},
+ {"nombre":"Bain Nutritive","id":3, "imagen":"shampoo3ok.jpg",  "descripcion":["Shampoo de Nutrición, Cabellos ligeramente secos"], "precio":"5800"},
+ {"nombre":"Bain     'Densité'","id":4, "imagen":"shampoo4ok.jpeg","descripcion":["Shampoo engrosador de Cabello.Aporta densidad"], "precio":"5600"},
+ {"nombre":"Bain Dermo Calm", "id":5,"imagen":"shampoo5.jpg",  "descripcion":["Shampoo calmante y suavizante de cuero cabelludo"], "precio":"5650"},
+ {"nombre":"Bain Vital Dermo calm","id":6, "imagen":"shampoo6.png",  "descripcion":["Shampoo Calmante.Cuero Cabelludo Sensible"], "precio":"5700"},
+ {"nombre":"Bain Oleo Relax","id":7, "imagen":"shampoo7.jpg",  "descripcion":["Shampoo relajante de volumen y frizz-Cabellos porosos"],"precio":"5750"},
+ {"nombre":" Cream Lait Vital","id":8, "imagen":"acondicionador1.jfif",  "descripcion":["Acondicionador ligeramente Nutritivo.Cabello semi Seco"], "precio":"4800"},
+ {"nombre":"Fondant Chromatique","id":9, "imagen":"acondicionador2.jfif",  "descripcion":["Crema Protectora de Color y Mechas-Cabellos Procesados"], "precio":"4750"},
+ {"nombre":"Ciment Anti-Usure","id":10, "imagen":"acondicionador3.jfif",  "descripcion":["Acondicionador ligero de Reestructuración Capilar"], "precio":"5100"},
+ {"nombre":"Masque Oleo Relax","id":11, "imagen":"mascara.jpg",  "descripcion":["Mascara Relajante de volumen, Cabellos encrespados"], "precio":"7500"},
+ {"nombre":"Masque Extencioniste","id":12, "imagen":"mascara1.jfif",  "descripcion":["Mascara para Cabellos debilitados y Dañados"], "precio":"6900"},
+ {"nombre":"Masque Magistral","id":13, "imagen":"mascara2.jpg",  "descripcion":["Mascara Nutritiva, Para Cabellos Secos y Deshifratados"], "precio":"8000"},
+ {"nombre":"Masque Therapiste","id":14, "imagen":"mascara3.jpg",  "descripcion":["Mascara para Cabello dañado y procesado en exceso "], "precio":"7100"},
+ {"nombre":"Masque Reconstituant","id":15, "imagen":"mascara4.png",  "descripcion":["Mascara para cabellos débiles y propensos a la caída por rotura"], "precio":"7200"},
+ {"nombre":"Masque Chronologiste","id":16, "imagen":"mascara6ok.jpg",  "descripcion":["Mascara que  aporta Hidratación y Brillo Extremo"], "precio":"7350"},
+ {"nombre":"Serum Therapiste","id":17, "imagen":"serum4.jpg",  "descripcion":["Serum ligero para cabellos dañados y procesados quimicamente"], "precio":"8650"},
+ {"nombre":"Serum Oleo Relax","id":18, "imagen":"serum1.jpg",  "descripcion":["Serum para Cabellos Secos, Porosos y con mucho frizz"], "precio":"8500"}]
+
+
+
+
+
+
+
+ 
